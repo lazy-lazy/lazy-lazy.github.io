@@ -2,7 +2,7 @@
   "name": "lazy-lazy.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lazy-lazy.github.io/myapp",
+  "homepage": "https://lazy-lazy.github.io/myapp",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
